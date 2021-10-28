@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Naomi
+- 👋 Hi, I’m Naomi Chan.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Send me an email: channaomi.b@gmail.com
 
 <!---
 chan-naomi/chan-naomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
